@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+    color: rgb(3, 3, 3);
+}
+
+header {
+    background-color: #504f4d;
+    padding: 20px;
+    text-align: center;
+}
+
+section {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin: 20px;
+    padding: 20px;
+    background-color: #fff;
+}
+
+article {
+    flex-basis: calc(33.33% - 20px); /* Tamaño de cada servicio */
+    margin: 10px;
+    padding: 10px;
+    background-color: #fff;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+    text-align: center;
+}
+
+article img {
+    max-width: 100%;
+    height: auto;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+h1, h2 {
+    color: rgb(224, 160, 75);
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: rgb(5, 5, 5);
+    color: #fff;
+}
