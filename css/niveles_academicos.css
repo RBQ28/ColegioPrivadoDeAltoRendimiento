@@ -1,5 +1,48 @@
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+/*====================================*/
 h2{
-    text-align: center;
-    color:#4173FF;
+    color: #B9ACF4;
+}
+/*================BOTON DE MATRICULA====================*/
+.Contend-matriculate{
+    background-color: #ADE260;
+    height: 80px;
 }
 
+/*====================================*/
+
+.servicios-caja {
+    display: flex;
+    flex: 1;
+    border-radius: 10px;
+    padding: 20px;
+    justify-content: center;
+}
+.servicios-caja div{
+    margin: 50px;
+}
+.Aprenden-caja{
+    display: flex;
+    flex: 1;
+    border-radius: 10px;
+    padding: 20px;
+    justify-content: center;
+}
+.Aprenden-caja div{
+    margin: 50px;
+}
+@media only screen and (max-width: 768px) {
+    .servicios-caja {
+        flex-direction: column; /* Cambiamos la dirección del flexbox a columna */
+        align-items: center; /* Centramos los elementos verticalmente */
+    }
+    .Aprenden-caja{
+        flex-direction: column; /* Cambiamos la dirección del flexbox a columna */
+        align-items: center; /* Centramos los elementos verticalmente */
+    }
+}

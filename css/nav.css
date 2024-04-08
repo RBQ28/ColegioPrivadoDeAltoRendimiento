@@ -1,0 +1,19 @@
+#navegacion {
+    background-color: #FF664A !important;
+}
+#nav_tex{
+    color: white;
+}
+#col-lg-nav_nav .navbar-toggler {
+    margin-right: auto;
+}
+
+
+  @media (max-width: 992px) {
+    .navbar-toggler {
+      margin: auto;
+      display: block;
+    }
+
+    
+}
