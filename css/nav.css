@@ -1,9 +1,13 @@
 #navegacion {
-    background-color: #FF664A !important;
+    background-color: #EC3237!important;
 }
-#nav_tex{
-    color: white;
+#nav-link{
+    color: rgb(0, 0, 0);
 }
+#nav-link:hover{
+  color: #EC3237;
+}
+
 #col-lg-nav_nav .navbar-toggler {
     margin-right: auto;
 }

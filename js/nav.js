@@ -17,16 +17,15 @@ document.addEventListener("DOMContentLoaded", function() {
 </nav>
 
 <!-- Topbar Start -->
+<!--
 <div class="container-fluid d-none d-lg-block">
-
-<!-- LOGO FALTA MEJORAR
 <nav class="navbar bg-body-tertiary">
 <div class="container-fluid">
     <a class="navbar-brand" href="#">
         <img src="../img/Insignia.png" alt="Logo" width="30" height="24" class="d-inline-block align-text-top">
     </a>
 </div>
-</nav>-->
+</nav>
 
     <div class="row align-items-center py-4 px-xl-5">
         <div class="col-lg-3">
@@ -64,6 +63,7 @@ document.addEventListener("DOMContentLoaded", function() {
         </div>
     </div>
 </div>
+-->
 <!-- Topbar End -->
 
     `;

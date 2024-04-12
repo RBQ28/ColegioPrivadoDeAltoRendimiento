@@ -9764,7 +9764,7 @@ h6,
 
 .navbar-light .navbar-nav .nav-link {
   padding: 20px 15px;
-  color: #44425A;
+  color: #F2F1F8;
   font-size: 18px;
   font-weight: 500;
   outline: none;
@@ -9772,7 +9772,7 @@ h6,
 
 .navbar-light .navbar-nav .nav-link:hover,
 .navbar-light .navbar-nav .nav-link.active {
-  color: #FF6600;
+  color: #000;
 }
 
 @media (max-width: 991.98px) {
