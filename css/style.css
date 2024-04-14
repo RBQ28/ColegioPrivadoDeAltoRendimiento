@@ -152,13 +152,13 @@ sup {
 }
 
 a {
-  color: #FF6600;
+  color: #E03339;
   text-decoration: none;
   background-color: transparent;
 }
 
 a:hover {
-  color: #b34700;
+  color: #ffff;
   text-decoration: underline;
 }
 
@@ -2371,14 +2371,14 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #fff;
-  background-color: #FF6600;
-  border-color: #FF6600;
+  background-color: #D5BC66;
+  border-color: #121212;
 }
 
 .btn-primary:hover {
   color: #fff;
-  background-color: #d95700;
-  border-color: #cc5200;
+  background-color: #D5BC66;
+  border-color: #D5BC66;
 }
 
 .btn-primary:focus, .btn-primary.focus {
@@ -6425,7 +6425,7 @@ button.bg-light:focus {
 }
 
 .bg-dark {
-  background-color: #44425A !important;
+  background-color: #373439  !important;
 }
 
 a.bg-dark:hover, a.bg-dark:focus,
@@ -9525,7 +9525,7 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #FF6600 !important;
+  color: #EC3237 !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
@@ -9817,7 +9817,7 @@ h6,
 }
 
 .carousel-indicators .active {
-  background: #FF6600;
+  background: #D5BC66;
 }
 
 @media (max-width: 991.98px) {
@@ -9910,7 +9910,7 @@ h6,
   width: 15px;
   height: 15px;
   border-radius: 15px;
-  background: #FF6600;
+  background: #D5BC66;
 }
 
 .testimonial-carousel .owl-dot::after {

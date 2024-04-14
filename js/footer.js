@@ -15,8 +15,8 @@ document.addEventListener("DOMContentLoaded", function() {
                                 <a class="btn btn-outline-light btn-square mr-2" href="#"><i class="fab fa-twitter"></i></a>
                                 <a class="btn btn-outline-light btn-square mr-2" href="#"><i class="fab fa-facebook-f"></i></a>
                                 <a class="btn btn-outline-light btn-square mr-2" href="#"><i class="fab fa-linkedin-in"></i></a>
-                                <a class="btn btn-outline-light btn-square" href="#"><i class="fab fa-instagram"></i></a>
-                                <a class="btn btn-outline-light btn-square" href="#"><i class="fab fa-whatsapp"></i></a>
+                                <a class="btn btn-outline-light btn-square mr-2" href="#"><i class="fab fa-instagram"></i></a>
+                                <a class="btn btn-outline-light btn-square mr-2" href="#"><i class="fab fa-whatsapp"></i></a>
 
                             </div>
                         </div>
@@ -28,29 +28,28 @@ document.addEventListener("DOMContentLoaded", function() {
                                 <a class="text-white mb-2" href="#"><i class="fa fa-angle-right mr-2"></i>Photoshop</a>
                                 <a class="text-white mb-2" href="#"><i class="fa fa-angle-right mr-2"></i>Research</a>
                                 <a class="text-white" href="#"><i class="fa fa-angle-right mr-2"></i>Dibujos</a>
-                                
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-5 col-md-12 mb-5">
-                    <h5 class="text-primary text-uppercase mb-4" style="letter-spacing: 5px;">Boletin informativo</h5>
-                    <p>Cuenta tu experiencia</p>
-                    <div class="w-100">
-                        <div class="input-group">
-                            <input type="text" class="form-control border-light" style="padding: 30px;" placeholder="Your Email Address">
-                            <div class="input-group-append">
-                                <button class="btn btn-primary px-4">Enviar</button>
-                            </div>
+                <h5 class="text-primary text-uppercase mb-4" style="letter-spacing: 5px;">Nuestros Socios</h5>
+                <p></p>
+                <div class="w-100"> 
+                    <div class="input-group">   
                         </div>
                     </div>
                 </div>
+            </div>
+        </div
             </div>
         </div>
         <div class="container-fluid bg-dark text-white border-top py-4 px-sm-3 px-md-5" style="border-color: rgba(256, 256, 256, .1) !important;">
             <div class="row">
                 <div class="col-lg-6 text-center text-md-left mb-3 mb-md-0">
-                    <p class="m-0 text-white">&copy; <a href="#"></a>. Reservados todos los derechos. Diseñado por <a href="JHON.H.P">RBQ, RMR y JBP</a>
+                    <p class="m-0 text-white">&copy; <a href="#"></a>. Reservados todos los derechos. Diseñado por <a href="">RBQ</a>
+                    <a href=""></a>
+                    <a href=""></a>
                     </p>
                 </div>
                 <div class="col-lg-6 text-center text-md-right">
