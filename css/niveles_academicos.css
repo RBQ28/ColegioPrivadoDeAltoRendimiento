@@ -13,7 +13,27 @@ h2{
     background-color: #ADE260;
     height: 80px;
 }
+/*==================Nivel Academico================*/
+.benefecio{
+    transition: .3s, border .3s, border-radius .3s, box-shadow .3s;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 55px 0 0;
+    background-color: #EAF2FF;
+}
 
+.h5-beneficio{
+    text-align: center; 
+}
+.d-flex{
+    justify-content: center;
+}
+.elemto-beneficio-tex{
+    margin-left: 10px;
+}
+.row{
+    
+}
 /*====================================*/
 
 .servicios-caja {
@@ -33,8 +53,8 @@ h2{
     padding: 20px;
     justify-content: center;
 }
-.Aprenden-caja div{
-    margin: 50px;
+.img-thumbnail{
+    height: 450px;
 }
 @media only screen and (max-width: 768px) {
     .servicios-caja {
