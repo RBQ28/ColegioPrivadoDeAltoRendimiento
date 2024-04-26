@@ -7,6 +7,7 @@ body {
 /*====================================*/
 h2{
     color: #4173FF;
+    font-weight: 700;
 }
 /*================BOTON DE MATRICULA====================*/
 .Contend-matriculate{
@@ -62,8 +63,58 @@ h2{
     padding: 20px;
     justify-content: center;
 }
-.img-thumbnail{
-    height: 450px;
+/*================Edu========*/
+#container-texto-edu div{
+    margin: 10px;
+}
+#container-texto-edu a{
+    font-weight: 900;
+    font-size: 32px;
+    color:#EC3237;
+}
+h5{
+    margin-top: 50px;
+}
+/*Modelo de aprendisaje*/
+#li-ofrecemo-edus{
+ color: #4173FF;
+}
+.bg-border-yellow {
+    background-color: #ffe700;
+    display: inline-block;
+    padding: 5px 20px;
+    font-size: 22px;
+    border-top-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    font-family: poppins, Sans-serif;
+}
+/*ahora la ultima secion */
+#empieza-ya .contenedor{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    background-color: rgba(30,30,30);
+    color: rgba(255, 255, 255, 0.993);
+    /*sirve para poder darle una altura*/
+    height: 50vh;
+}
+/*darle tamaÃ±o al titulo*/
+#empieza-ya  h2{
+    font-size: 5vw;
+}
+
+#empieza-ya button{
+    /*sirve para darle tamaÃ±o al boton*/
+    font-size: 1.75em;
+    color: #e0e402;
+    
+    
+}
+/* sirve para que no decore la liena baja*/
+#empieza-ya a{
+    text-decoration: none;
+    color: #000000;
 }
 @media only screen and (max-width: 768px) {
     #contanier-card{
